@@ -1,0 +1,11 @@
+{
+  "name": "async_await_conversion",
+  "version": "1.0.0",
+  "description": "This project demonstrates how to convert a Node.js callback-based code into a cleaner, more readable version using **Promises** and **Async/Await**.",
+  "main": "async-await-version.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
